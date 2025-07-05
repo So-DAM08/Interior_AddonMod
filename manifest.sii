@@ -9,7 +9,7 @@ mod_package : .package_name
 	package_version: "v5.3"
 
 	# Display name can be any string with any length.
-	# display_name: "Torry Interior AddonPack"
+	display_name: "Torry Interior AddonPack"
 
 	# Author can be any string with any length.
 	author: "김토리, Seogi"
