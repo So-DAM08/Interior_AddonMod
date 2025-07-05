@@ -1,6 +1,0 @@
-
-material : "ui"
-{
-	texture : "aircon.tobj"
-	texture_name : "texture"
-}
