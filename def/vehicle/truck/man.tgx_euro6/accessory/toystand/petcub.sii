@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : petcub.man.tgx_euro6.toystand
+{
+	name: "petcub"
+	price: 160
+	unlock: 3
+	icon: "petcub"
+
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/petcub.pmd"
+
+}
+}

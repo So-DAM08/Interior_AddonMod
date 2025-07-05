@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : finevu_v2.volvo.fh_2021.curtain_f
+{
+	name: "FineVU v2 블랙박스 4채널"
+	price: 1000
+	unlock: 0
+	icon: "finevu"
+	part_type: aftermarket
+   
+  interior_model:  "/finevu/finevu_v2.pmd"
+  exterior_model:  "/finevu/finevu_v2.pmd"
+}
+}

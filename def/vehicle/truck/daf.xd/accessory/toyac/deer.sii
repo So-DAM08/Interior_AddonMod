@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : deer.daf.xd.toyac
+{
+	name: "사슴 방향제"
+	price: 101
+	unlock: 0
+	icon: "deer"
+	part_type: aftermarket
+
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toyac/deer.pmd"
+}
+}

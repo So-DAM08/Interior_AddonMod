@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_int_data : 4ch2.man.tgx_2020.set_lglass
+{
+	name: "MAN2020 4CH"
+	price: 1170
+	unlock: 0
+	icon: "4ch"
+	part_type: aftermarket
+
+	interior_model: "/4ch/4ch.pmd"
+	exterior_model: "/4ch/4ch.pmd"
+}
+}

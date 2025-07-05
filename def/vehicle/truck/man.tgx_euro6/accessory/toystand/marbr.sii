@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : marbr.man.tgx_euro6.toystand
+{
+	name: "말보루 담배"
+	price: 130
+	unlock: 0
+	icon: "marbr"
+
+	interior_model: "/ohs/marbr.pmd"
+}
+}

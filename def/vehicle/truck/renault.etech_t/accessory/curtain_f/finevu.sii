@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : finevu.renault.etech_t.curtain_f
+{
+	name: "FineVU 블랙박스"
+	price: 360
+	unlock: 0
+	icon: "finevu"
+	part_type: aftermarket
+   
+  interior_model:  "/finevu/finevu.pmd"
+  exterior_model:  "/finevu/finevu.pmd"
+}
+}

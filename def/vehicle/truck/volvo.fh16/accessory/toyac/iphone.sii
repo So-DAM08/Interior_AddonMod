@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : iphone.volvo.fh16.toyac
+{
+	name: "아이폰"
+	price: 101
+	unlock: 0
+	icon: "iphone"
+	part_type: aftermarket
+
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toyac/iphone.pmd"
+}
+}

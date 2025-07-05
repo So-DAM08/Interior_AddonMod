@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : deer2.man.tgx.toyac
+{
+	name: "은색 사슴방향제"
+	price: 101
+	unlock: 0
+	icon: "deer2"
+	part_type: aftermarket
+
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toyac/deer_siver.pmd"
+}
+}

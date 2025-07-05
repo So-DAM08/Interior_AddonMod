@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : hps.daf.xf_euro6.frntglss_mid
+{
+	name: "하이패스 단말기"
+	price: 480
+	unlock: 0
+	icon: "hps"
+	part_type: aftermarket
+
+	exterior_model: "/hps/hps.pmd"
+	interior_model: "/hps/hps.pmd"
+}
+}

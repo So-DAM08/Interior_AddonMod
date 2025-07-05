@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_int_data : shift1.scania.s_2016.toybig
+{
+	name: "Scania S Shifter"
+	price: 80
+	unlock: 0
+	icon: "shifter"
+	part_type: aftermarket
+
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toybig/shifter.pmd"
+	interior_model_uk: "/vehicle/truck/upgrade/interior_decors/toybig/shifter.pmd"
+}
+}

@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : cof.renault.premium.toyseat
+{
+	name: "커피박스"
+	price: 160
+	unlock: 3
+	icon: "cof"
+
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toyseat/cof.pmd"
+}
+}
