@@ -1,0 +1,16 @@
+SiiNunit
+{
+accessory_addon_data : tvl.scania.s_2016.l_pillow
+{
+	name: "LG U+ TV"
+	price: 90
+	unlock: 0
+	icon: "tv"
+	part_type: aftermarket
+
+	interior_model: "/tv/tvl.pmd"
+	exterior_model: "/tv/tvl.pmd"
+
+	suitable_for[]: "normal.scania.s_2016.cabin"
+}
+}

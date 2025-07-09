@@ -10,5 +10,8 @@ accessory_addon_data : tv.scania.s_2016.l_pillow
 
 	interior_model: "/tv/tv.pmd"
 	exterior_model: "/tv/tv.pmd"
+
+	suitable_for[]: "highline.scania.s_2016.cabin"
+	suitable_for[]: "highline_8x4.scania.s_2016.cabin"
 }
 }

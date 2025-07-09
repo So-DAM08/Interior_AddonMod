@@ -1,0 +1,17 @@
+SiiNunit
+{
+accessory_addon_data : tvvl.volvo.fh_2024.l_pillow
+{
+	name: "LG U+ TV"
+	price: 90
+	unlock: 0
+	icon: "tv"
+	part_type: aftermarket
+
+	interior_model: "/tv/tvvl.pmd"
+	exterior_model: "/tv/tvvl.pmd"
+
+	suitable_for[]: "l2h1.volvo.fh_2024.cabin"
+	suitable_for[]: "l2h1_aero.volvo.fh_2024.cabin"
+}
+}
